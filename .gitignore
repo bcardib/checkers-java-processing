@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+#local editor settings
+.vscode/
