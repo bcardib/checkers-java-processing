@@ -12,4 +12,5 @@ build/
 *.log
 
 #local editor settings
-.vscode/
+.vscode/.Rhistory
+README.html
